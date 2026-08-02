@@ -15,12 +15,6 @@ I enjoy solving problems related to backend development, working with technologi
 
 Alongside my work and studies, I continuously develop my technical skills through personal projects and by exploring new technologies, including AI and agentic development. I enjoy collaborating with others, sharing knowledge, and taking on new challenges.
 
-- 🔭 Currently working on insurance solutions built on **Guidewire (Gosu)** at VHV Gruppe
-- 🌱 Currently exploring agentic development, MCP, and Skills (Claude)
-- 🎯 Next goal: **Guidewire Associate Certification – InsuranceSuite Developer**
-- 💬 Ask me about: Spring Boot, REST/SOAP APIs, Guidewire, databases, business analysis
-- ⚡ Fun fact: I combine a business analyst's mindset with a developer's toolkit
-
 ---
 
 ### 🛠️ Tech Stack
