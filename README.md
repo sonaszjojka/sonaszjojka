@@ -9,6 +9,8 @@
 
 ### 🚀 About Me
 
+[Visit my site](https://sonaszjojka.github.io/jsojka-website/)
+
 I'm a Software Engineer and Computer Science graduate from PJATK, currently continuing my studies in Information Management with a specialization in IT Systems Architecture.
 
 I enjoy solving problems related to backend development, working with technologies such as **Spring Boot**, **AWS**, and databases like **PostgreSQL**. Having experience as both an **IT Business Analyst** and a **Software Engineer** lets me approach software development from a wider perspective — I understand not only how solutions are built, but also the business goals and user needs behind them.
