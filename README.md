@@ -93,7 +93,7 @@ Alongside my work and studies, I continuously develop my technical skills throug
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/jonasz-s%C3%B3jka/?locale=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasz-sojka/?locale=en)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasz.sojkaa@gmail.com)
 
 <p align="center"><i>📚 Outside of work: reading, running, and the gym 🏋️</i></p>
