@@ -66,6 +66,8 @@ PJATK Computer Science engineer (databases); Master's in IT systems architecture
 
 **Junior Software Engineer @ VHV Gruppe** · Warsaw, Poland · November 2025 – Present
 
+<sub>Full history on [LinkedIn](https://www.linkedin.com/in/jonasz-s%C3%B3jka/details/experience/?locale=en-US).</sub>
+
 ---
 
 ### 📌 Featured Projects
